@@ -1,0 +1,347 @@
+Guru99
+Home
+ 
+Testing 
+ 
+SAP 
+ 
+Web 
+ 
+Must Learn! 
+ 
+Big Data 
+ 
+Live Projects 
+ 
+AI 
+ 
+Blog
+ 
+20 Best Front End Web Development Tools in 2019
+
+There are many front-end development tools that accelerate web development. Here is a curated list of top tools with key features and download links.
+
+1) Novi Builder
+
+
+Novi Builder is a drag-and-drop builder that can be called a great choice for an experienced web-developer. It provides them with access to the source code and allows making multiple changes in design. You will get full control of your online-project and get a chance to make the most out of its functionality. Despite the fact that it can be a little bit hard to use for beginners, there are different benefits that outweigh this weakness.
+
+Features:
+
+advanced code editor;
+additional apps integration;
+a wide selection of pre-made themes;
+drag-and-drop interface;
+eCommerce support;
+preview tool.
+Download link: https://novibuilder.com/
+
+2) ONE Subscription
+
+
+ONE Subscription is an effective web-development kit that allows getting access to a great number of top-quality digital products. It boasts tons of high-quality items that make it possible to launch fully-fledged blogs, online-stores, landing pages, and other websites. In general, you will be provided with thousands of themes and templates, different plugins and graphic elements, additional services, and other advantages.
+
+Features:
+
+professional support for all items;
+regular updates;
+security (you can easily cancel your subscription within 14 days after its starts if you have not downloaded anything from the database);
+unlimited yearly license;
+useful services (as an example, template customization or installation).
+Download link: https://one.templatemonster.com/
+
+3) Creative Tim
+
+
+Creative Tim provides Bootstrap based design elements, which help you faster your development work. You can create web and mobile apps using this tool.
+
+Features:
+
+Provide the easiest way to get started is to use one of our pre-built example pages.
+Using this tool helps you to save your time and as it allows you to focus on your business model.
+Offers an easy to use Admin Templates
+Admin Dashboards helps you to save a large amount of time
+Offers pre-Made Sections & Elements
+
+
+4) Npm:
+
+
+Npm is the Node package manager for JavaScript. It helps to discover packages of reusable code and assemble them in powerful new ways. This web development tool is a command-line utility for interacting with a said repository that aids in the package.
+
+Features:
+
+Discover and reuse over 470,000 free code packages in the Registry
+Encourage code discovery and reuse within teams
+Publish and control access to namespace
+Manage public and private code using the same workflow
+Download link: https://www.npmjs.com/
+
+5) TypeScript:
+
+
+TypeScript is an open-source front end scripting language. It is a strict syntactical superset of JavaScript which adds optional static typing. It is specially designed for development of large applications and compiles to JavaScript.
+
+Features:
+
+
+TypeScript supports other JS libraries
+It is possible to use this Typescript on any environment that JavaScript runs on
+It supports definition files that can contain type information of existing JavaScript libraries, such as C/C++ header files
+It is portable across browsers, devices, and operating systems
+It can run on any environment that JavaScript runs on
+Download link: https://www.typescriptlang.org/index.html#download-links
+
+6) CodeKit:
+
+
+Codekit is a front-end web development tool. This tool provides support to build websites faster. It combines, minifies and syntax-checks JavaScript. It also optimizes images.
+
+Features:
+
+CSS changes are injected without need of reloading the entire page
+Combine scripts to reduce HTTP requests.
+Minify code to reduce file sizes
+Works automatically with most languages without trouble
+Download link: https://codekitapp.com/
+
+7) WebStorm:
+
+
+WebStorm brings smart coding assistance for JavaScript. It provides advanced coding assistance for Angular, React.js, Vue.js and Meteo. It also helps developers to code more efficiently when working with large projects
+
+Features:
+
+WebStorm helps developers to code more efficiently when working with large projects
+It provides built-in tools for debugging, testing and tracing client-side and Node.js applications
+It integrates with popular command line tools for web development
+Spy-js built-in tool allows tracing JavaScript code
+It provides a unified UI for working with many popular Version Control System
+It is extremely customizable to perfectly suite various coding style
+It offers built-in debugger for client-side code and Node.js apps
+Download link: https://www.jetbrains.com/webstorm/download/#section=windows
+
+8) HTML5 Boilerplate:
+
+
+HTML5 Boilerplate help in building fast, robust, and adaptable web apps or sites. It is a set of files that developers can download, which provide a foundation for any website.
+
+Features:
+
+It allows developers to use HTML5 elements
+It is designed by keeping progressive enhancement in mind
+Normalize.css for CSS normalizations and common bug fixes
+Apache Server Configs to improve performance and security
+It offers optimized version of the Google Universal Analytics snippet
+Protection against console statements causing JavaScript errors in older browsers
+Extensive inline and accompanying documentation
+Download link: https://html5boilerplate.com/
+
+9) AngularJS:
+
+
+AngularJS is another must-have tool for front-end developers. It is an open-source web application framework. It helps to extend the HTML syntax for web applications. It simplifies front-end development process by developing accessible, readable and expressive environment.
+
+Features:
+
+It is an is open source, completely free, and used by thousands of developers around the world
+It offers to create RICH Internet Application
+It provides option to write client side application using JavaScript using MVC
+It automatically handles JavaScript code suitable for each browser
+Download link: https://angularjs.org/
+
+10) Sass:
+
+
+Sass is the most reliable, mature, and robust CSS extension language. This tool helps to extend the functionality of an existing CSS of a site like variables, inheritance, and nesting with ease.
+
+
+Features:
+
+It is straightforward and easy to use front end tool to write any code
+Supports language extensions such as variables, nesting, and mixins
+Many useful functions for manipulating colors and other values
+Advanced features like control directives for libraries
+It offers well-formatted, customizable output
+Download link: http://sass-lang.com/
+
+11) Backbone:
+
+
+Backbone.js gives structure to web applications by offering models with key-value binding and custom events.
+
+Features:
+
+Backbone.js allows developers to develop one-page applications
+Backbone.js has a simple library used to separate business and user interface logic
+This tool makes code simple, systematic and organized. It acts as a backbone for any project
+It manages the data model which also includes the user data and display that data on the server side
+It allows developers to create client side web applications or mobile applications
+Download link: http://backbonejs.org/
+
+12) Grunt:
+
+
+Grunt is a popular task runner on NodeJS. It is flexible and widely adopted. It is preferred tool when it comes to task automation. It offers lots of bundled plugins for common tasks.
+
+Features:
+
+It makes the workflow as easy as writing a setup file
+It allows automating repetitive tasks with minimum effort
+It has a straightforward approach. It includes tasks in JS and config in JSON
+Grunt includes built-in tasks for extending the functionality of plugins and scripts
+It speeds up the development process and increase the performance of projects
+The ecosystem of Grunt is huge; so it is possible to automate anything with very less effort
+This web development tool reduces the chance of getting errors while performing repetitive tasks
+Download link: https://gruntjs.com/
+
+13) Jasmine:
+
+
+Jasmine is a behavior-driven js for testing JavaScript code. It does not depend on any other JavaScript frameworks. This open source tool does not require a DOM.
+
+Features:
+
+Low overhead, no external dependencies
+Comes out of the box with everything need to test code
+Run browser tests and Node.js tests using the same framework
+Download link: https://jasmine.github.io/index.html
+
+14) CodePen:
+
+
+CodePen is a web development environment for front-end designers and developers. It is all about faster and smoother development. It allows to build, deploy website and build test cases.
+
+Features:
+
+It offers to build components to use elsewhere later
+It includes some awesome features to write CSS faster.
+Allows live view and live sync
+Prefill API feature allows adding links and demo pages without need to code anything
+Download link: https://codepen.io/
+
+15) Foundation:
+
+
+
+Foundation is front-end framework for any device, medium, and accessibility. This responsive front-end framework makes it easy to design responsive websites, apps, and emails.
+
+Features:
+
+It offers the cleanest markup without sacrificing the utility and speed of Foundation
+Possible to customize the build to include or remove certain elements. As it defines the size of columns, colors, font size.
+Faster development and page load speed
+Foundation is optimized truly for mobile devices
+Customizability for developers of all levels
+It takes responsive design to the next level, with the much-needed medium grid accommodating for tablets
+Download link: http://foundation.zurb.com/sites/download.html/
+
+16) Sublime Text:
+
+
+Sublime Text is a proprietary cross-platform source code editor. This app development tool natively supports many programming languages and markup languages.
+
+Features:
+
+Command palette feature allows matching keyboard invocation of arbitrary commands
+Simultaneous editing allows making the same interactive changes to multiple areas
+Offers Python-based plugin API
+Allows developers to give project specific preferences
+Compatible with many language grammars from TextMate
+Download link: https://www.sublimetext.com/
+
+17) Grid Guide:
+Grid guide is another important front end development tool. It allows creating pixel perfect grids within designs. It is a simple tool that can unlock very valuable workflows.
+
+Features:
+
+Add guides based on the canvas, artboards, and selected layers
+Quickly add guides to edges and midpoints
+Allows to create duplicate guides to other artboards and documents
+Helps users to create custom grids
+Download link: https://guideguide.me/
+
+18) Chrome Developer Tools:
+
+
+The Chrome Developer Tools are a set of debugging tools built into Chrome. These tools allow developers to do wide varieties of testing which easily saved lots of time.
+
+Features:
+
+It allows adding custom CSS rules
+Users can view Margin, Border, and Padding
+It helps to Emulate Mobile Devices
+Possible to use dev tools as editor
+User can easily disable browser's caching when dev tool is open
+Download link: https://developer.chrome.com/devtools
+
+19) Modaal:
+
+
+Modal is front end development plugin which gives quality, flexibile, and accessibile modals.
+
+Features:
+
+Optimized for assistive technologies and screen readers
+Fully responsive, scaling with browser width
+Customizable CSS with SASS options
+It offers full-screen and viewport mode
+Keyboard control for gallery open and closing modal
+Flexible close options and methods
+Download link: https://github.com/humaan/Modaal
+
+20) Less
+
+
+Less is a pre-processor that extends the support for CSS language. It allows developers to use techniques to make CSS more maintainable and extendable.
+
+Feature:
+
+It can freely download and use
+It offers higher-level style syntax, which allows web designers/developers to create advanced CSS
+It easily compiles into standard CSS, before the web browser begins rendering a web page
+Compiled CSS files can be uploaded to the production web server
+Download link: http://lesscss.org/
+
+21) Meteor:
+
+
+Meteor is a full stack JavaScript framework. It is made up of a collection of libraries and packages. It has been built on concepts from other frameworks and libraries to makes it easy to prototype applications.
+
+Features:
+
+It makes developing applications efficient
+It comes with several built-in features that contain frontend libraries and NODE js based server
+It speeds up development time significantly on any project
+Meteor offers MongoDB database and Minimongo, which is written entirely in JavaScript
+Live reloading feature allows refreshing only the required DOM elements
+Download link: https://www.meteor.com/install
+
+22) jQuery:
+
+
+jQuery is a widely used JavaScript library. It empowers front-end developers to concentrate on the functionality of different aspects. It makes the things easy like HTML document traversal, manipulation, and Ajax.
+
+Features:
+
+QueryUI facilitates to make highly interactive web applications
+It is open source and free to use
+It provides a powerful theme mechanism
+It is very stable and maintenance friendly
+It offers an extensive browser support
+Helps to create great documentation
+Download link: http://jquery.com/download/
+
+23) Github:
+
+
+GitHub is a web development platform inspired by the way you work. This tool allows developers to review code, manage projects, and build software.
+
+Features:
+
+Coordinate easily, stay aligned, and get done with GitHub's project management tools
+It offers right tools for the job
+Easy documentation alongside quality coding
+Allows all code in a single place
+Developers can host their documentation directly from repositories
+Download link: https://github.com/
