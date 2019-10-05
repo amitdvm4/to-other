@@ -1,0 +1,53 @@
+JavaScript is one of the most widely used scripting languages by the developers and website testers worldwide. Powerful, resourceful, and intuitive, JavaScript comes into action when we require our website to be a little different The true beauty of JavaScript is not the language itself, but the ecosystem of thousands of tools and libraries developed by resourceful developers around the world.
+So if you are a new JavaScript developer looking for a easy list of tools to get you started, below I have listed some tools including frameworks, debuggers, text editors etc. that will help you code efficiently using JavaScript.
+SUBLIME TEXT
+Its a proprietary cross-platform text editor with Python API.It natively supports multiple languages and markup languages. And Plugins can also be installed for new functions.
+For more info https://www.sublimetext.com/
+GULP
+Gulp is basically a task automation tool. The file that you create in this tool, is a plain JavaScript file that you can run to automate you menial tasks. It comes under the category of package manager. Gulp is very developer friendly and easy to learn.
+For more info: https://gulpjs.com/
+NPM
+NPM is known as NodeJs Package Manager, which is an online repository for publishing projects created on NodeJS. If you are JS developer, you should know NPM.
+For more info : https://www.npmjs.com
+WEBPACK
+Webpack helps you in loading your modules with some dependencies like .js,.css,.html etc. Webpack works as a bundler which bundles your similar kind of files into a single precise file. Great for DevOps peeps looking for a easy way to organize and pack their deployment files.
+For more info: https://webpack.js.org/
+ESLINT
+A tool which is used for finding errors. It is a pluggable JavaScript linting tool. This tool will help you find programming errors and is a must have for newbies JavaScript testers. It also comes under NPM.
+For more info: https://eslint.org/
+JASMINE
+Jasmine is a test suite which comes into action when your JavaScript is installed into your browser.Its a fully automated behavior-based test suite.It provides a testing environment for all kinds of Node.js projects.
+For more info: https://jasmine.github.io/
+BROWSERIFY
+Browserify can only be used with the Node.js projects and to make them live into the browser.It works well on small modules.
+For more info: www.browserify.org/
+MOCHA
+Mocha is a simple and flexible testing framework based on the javascript. It also offers asynchronous testing and also you can use any assertion library with it.
+For more info: https://mochajs.org/
+QUNIT
+lled on NPM, which is a javascript testing framework.
+It’s a javascript based unit testing framework.
+For more info: https://qunitjs.com/
+CODE ORCHESTRA
+Code Orchestra is also known as COLT(Code orchestra Live Coding tool)
+It can be used by any IDE which is beneficial for the user/coder to use that tool with any IDE, he is comfortable with.
+For more info: https://github.com/code-orchestra
+CircleCI
+Continuous Integration is treated as a development practice tool which allows developers to integrate their code in a shared repository few times a day.
+For more info: circleci.com/
+TRAVIS
+With the help of Travis CI, you can easily synchronize your GITHUB projects.
+Travis offers more language support than circleCI and also you can run test on linux and mac OS at the same time.
+For more info: https://travis-ci.org/
+CODESHIP
+Codeship is a Continuous Integration tool helps in error finding. The service offers a variety of powerful setup options.
+For more info: https://codeship.com/
+APPVEYOR
+Appveyor is an open source project builder. It works good for GITHUB repositories.
+The user can login to the actual VM.
+For more info: https://www.appveyor.com/
+JENKINS
+Jenkins is a continuous Integration server or tool which is written in java. It is considered to be a Standalone CI tool with a lots of plugins by which you can do anything.
+For more info: https://jenkins-ci.org/
+These are the tools that makes the life of a javascript developer easier. If you use some other tools, don’t forget to let us know in the comments below.
+Originally published at lambdatest.com
