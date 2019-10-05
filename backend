@@ -1,0 +1,269 @@
+Complete Megalist: 25 Helpful Tools For Back-End Developers
+monitis article back end developers
+
+ 
+
+The website or mobile app is the storefront for participating in the modern digital era. It’s your portal for inviting users to come and survey your products and services. Much attention focuses on front-end development; this is where the HMTL5, CSS, and JavaScript are coded to develop the landing page that everyone sees when they visit your site.
+
+ 
+
+But the real magic happens on the backend. This is the ecosystem that really powers your website. One writer has articulated this point very nicely as follows:
+
+ 
+
+The technology and programming that “power” a site—what your end user doesn’t see but what makes the site run—is called the back end. Consisting of the server, the database, and the server-side applications, it’s the behind-the-scenes functionality—the brain of a site. This is the ecosystem of the database manager and the back-end developer.
+
+ 
+
+The challenge of modern web development is that the tools and technologies are constantly changing. What’s in vogue today may become obsolete in less than a year. What’s more is that web applications have become much richer and more complex. New uses of video, virtual reality, and artificial intelligence on websites will continue to define the developer of the future.
+
+ 
+
+And, of course, today’s savvy web developer must continue to learn and grow, which is equally challenging because the technologies are constantly changing. The internet of 3 years ago, is very different from the internet of today, and so it will be in another 3 years.
+
+ 
+
+In the following, we’ve put together a long list of useful tools that every back-end developer should have in their toolkit. Read on and learn about some of the best resources on the market today for the backend developer.
+
+ 
+
+ 
+
+Languages & Frameworks
+ 
+
+1. PHP
+
+ 
+
+In the 23 years since its introduction, PHP has become the world’s most popular server-side scripting language. PHP is pre-installed on most hosting sites, is known to be easy to use, and has tons of support. What’s more, there are many very well established PHP frameworks on the market that make developing applications more intuitive and agile. Some of the most popular ones are Symfony, Laravel, Phalcon, and Yii Framework.
+
+ 
+
+ 
+
+2. Python
+
+ 
+
+Python has become an extremely popular language for building applications in recent years. With a reputation for being fast, easy to learn, and carrying wide support, Python has become the first choice for many new programmers. It’s also the language of choice for data scientists and engineers. A couple of the most popular Python frameworks out there are Django and Pyramid.
+
+ 
+
+ 
+
+3. Ruby on Rails
+
+ 
+
+Ruby on Rails is the popular open source web application framework that uses the Ruby programming language. Ever since Rails burst on the scene a decade ago it has continued to scale up as an elegant way to build dynamic websites quickly and efficiently. Rails has garnered a strong following, especially among tech startups. In fact, some of the best-known firms out there are using this framework to build their sites, including Airbnb, Bloomberg, and Groupon.
+
+ 
+
+ 
+
+4. Node.js
+
+ 
+
+Node.js is an open-source, cross-platform JavaScript runtime environment for developing a diverse variety of server tools and applications. One notable feature of Node.js is that it contains a built-in library to allow applications to act as a Web server without software such as Apache HTTP Server or IIS.
+
+ 
+
+ 
+
+5. Laravel
+
+ 
+
+Laravel is probably one of the more popular PHP frameworks on the market right now. Known for its elegance and simplicity, Laravel meets a diverse range of programming needs and projects, from beginner to advanced, and is well suited for projects of all types and sizes – from basic scripting to huge enterprise applications. It’s built on top of several Symfony components that ensure a solid framework for producing well-tested and reliable code.
+
+ 
+
+ 
+
+Web Server Technologies
+ 
+
+6. Apache
+
+ 
+
+Apache is an open source web server, created in 1999 and currently used by 50.1% of all websites. The numbers indicate the reliance that folks place on Apache to run their web services. It’s a proven, reliable tool that has stood the test of time, and really played a key role in the early growth of the internet.
+
+ 
+
+7. NGINX
+
+NGINX is open source software for web serving, reverse proxying, caching, load balancing, media streaming, and more. In addition to its HTTP server capabilities, NGINX can also function as a proxy server for email (IMAP, POP3, and SMTP) and a reverse proxy and load balancer for HTTP, TCP, and UDP servers.
+
+ 
+
+ 
+
+Databases
+ 
+
+8. MySQL
+
+ 
+
+MySQL is the world’s most popular open source relational database. It’s easily accessible and is often known to be part of the LAMP web development stack, standing for the ‘M’ in the acronym of popular tools, along with Linux, Apache, and PHP/Perl/Python. The fact that MySQL is free, easy to setup, and scales fast are some of the main reasons why it’s the best match for many backend developers.
+
+ 
+
+9. PostgreSQL
+
+ 
+
+PostgreSQL is a powerful, open source object-relational database system with more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness.
+
+ 
+
+10. MongoDB
+
+ 
+
+MongoDB is a free and open-source NoSQL database system. MongoDB saves data in binary JSON format which makes it easier to pass data between client and server. The platform is closely associated with MEAN ( an acronym for MongoDB, ExpressJS, AngularJS, and NodeJS), a JavaScript based set of technologies used for building web applications.
+
+ 
+
+ 
+
+Git Clients & Services
+ 
+
+11. SourceTree
+
+SourceTree simplifies the process of how developers interact with their Git and Mercurial repositories. The easy to use interface makes managing repositories more intuitive so you can focus on coding.
+
+ 
+
+12. Github Client
+
+Github Client was created to minimize the cost of building apps on multiple platforms. By using the Electron software framework, developers can now easily write cross-platform desktop applications using JavaScript, HTML, and CSS. Essentially, Github Client + Electron provides developers with the benefits of a unified cross-platform experience that’s completely open source and ready to customize.
+
+ 
+
+ 
+
+Microservice Platforms
+ 
+
+13. Docker
+
+ 
+
+Docker is the open source platform that put microservices on the map by providing developers and testers with a fast and easy-to-use packaging, distribution, and deployment mechanism for building containerized applications. Docker also offers a formidable ecosystem of tools, such as native clustering (Docker Swarm) registry service (Docker Hub) and cloud service (Docker Cloud).
+
+ 
+
+14. Kubernetes
+
+ 
+
+Kubernetes is an open source container cluster manager that aims to provide a “platform for automating deployment, scaling, and operations of application containers across clusters of hosts.” Originally designed by Google, Kubernetes has the advantage of 15 years of Google research. Because of that, Kubernetes also draws upon a robust user community and is one of the top projects on Github.
+
+ 
+
+ 
+
+Local Development Environments
+ 
+
+15. XAMPP
+
+ 
+
+There are lots of advantages to setting up your own local test environment. XAMPP is an open source, cross-platform web server solution stack, which comes with the Apache distribution containing MariaDB, PHP, and Perl all integrated into one downloadable file. The XAMPP open source package has been set up to be incredibly easy to install and to use.
+
+ 
+
+16. WampServer
+
+Wampserver is an open source windows development environment. It allows users to create web applications with Apache, PHP, and a MySQL database. The platform also comes with PhpMyAdmin and SQLite to help easily manage your databases. Wampserver is known to be particularly easy and intuitive to use.
+
+ 
+
+17. Laragon
+
+ 
+
+Laragon provides a fast and easy way to spin up an isolated Windows development (like a Virtual Machine, it doesn’t touch your OS). Users can install it as a software, start it up, do their programming, and just exit when finished. The platform comes pre-installed with many popular applications like Node.js, PHP, Apache, Composer, and MariaDB/MySQL.
+
+ 
+
+ 
+
+Collaboration Services
+ 
+
+18. Slack
+
+ 
+
+Slack is a popular cloud-based messaging & collaboration app that has revolutionized enterprise communications in recent years. Known for its fun and intuitive user interface, “slackbots” (AI personal assistant), and a robust and rapidly expanding user community, Slack is on a mission to make working life simpler, more pleasant, and more productive.
+
+ 
+
+ 
+
+19. Asana
+
+ 
+
+Asana is a SaaS platform designed to help teams work more effectively by improving team collaboration. It focuses on allowing users to manage projects and tasks online without the use of email.
+
+ 
+
+20. Jira
+
+ 
+
+Jira is a web-based project management platform that uses the kanban and scrum paradigms for managing projects, originally popularized by Toyota in the 1980s for supply chain management. As its own website declares, “Trello’s boards, lists, and cards allow users to organize and prioritize projects in a fun, flexible, and rewarding way.”
+
+ 
+
+ 
+
+Website Speed Test Tools
+ 
+
+21. Google PageSpeed Insights
+
+ 
+
+PageSpeed Insights is a helpful web performance tool that analyzes the content and speed of a web page. The output offers reports for both desktop and mobile versions of your site, along with a set of recommendations and metrics to make the page faster.
+
+ 
+
+22. Full Page Load Tester
+
+ 
+
+WebPage Test provides a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. The output offers a rich set of diagnostics including resource loading waterfall charts, Page Speed optimization checks, and suggestions for improvements.
+
+ 
+
+ 
+
+Web Development Communities
+ 
+
+23. Stackoverflow
+
+ 
+
+StackOverflow is easily the world’s largest developer website with approximately 50 million visits a month by developers who come to learn and share their knowledge. Users are encouraged by Stack Overflow’s badge system, which enables them to earn reputation points for receiving an “up” vote on an answer given to a question.
+
+ 
+
+24. Refind
+
+Refind is a content reposting site that allows members (consisting of founders, hackers, and designers) to collect and share the best links on the web. In its own words, “Join thousands of professionals to discover, save, and read what’s most relevant to you.”
+
+ 
+
+25. Hashnode
+
+Hashnode is basically a social network for software developers where they can share and grow their programming knowledge by posting of articles and content. This allows them to build their portfolio and gain followers and votes in the process.
